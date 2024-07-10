@@ -6,3 +6,4 @@ homeassistant==2023.1.7
 paho-mqtt
 python-dateutil
 yarl
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
